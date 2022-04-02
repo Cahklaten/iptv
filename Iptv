@@ -1383,4 +1383,37 @@ https://m3u-editor.com/serve/iptv-gratis/536999640
 #EXTINF: -1 tvg-id="tvs.my" tvg-name="MY | TVS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvs-my.png" group-title="[BACKUP] MALAYSIA", MY | TVS
 https://m3u-editor.com/serve/iptv-gratis/536999641
 
+#EXTINF:-1 tvg-id="mbahe" tvg-name="TyC Sports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 01
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="Arab 2" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 02
+https://admdn5.cdn.mangomolo.com:443/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="band sports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 03
+http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="Canal 11" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 04
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="Bahrain Sports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 05
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="ftf" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 06
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="directv sports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 07
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="mLaliga" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 08
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="Adventure Sports Network" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 09
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="Adventure Sports TV" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 10
+https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+#EXTINF:-1 tvg-id="mbahe" tvg-name="Alfa Sport" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 11
+https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 tvg-id="mbahe" tvg-name="Wrestling" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 12
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="World of Freesports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 13
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="ESPN2" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 14
+http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="looksport3" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 15
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="mbahe" tvg-name="ESPN2 ARG" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 16
+https://edge-live32-hr.cvattv.com.ar:443/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
 
