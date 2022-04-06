@@ -5,10 +5,14 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1408254284_b544100_sl
 
 #EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Transtv.png" group-title="Indonesia Channel", TRANSTV
 https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w428782846_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Transtv.png" group-title="Indonesia Channel", TRANSTV HD
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Trans7.png" group-title="Indonesia Channel", TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://semprullive.wap.sh/Logo/Trans7.png" group-title="Indonesia Channel", TRANS7 HD
 https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/309px-Indosiar_2015.svg.png" group-title="Indonesia Channel",INDOSIAR
@@ -27,7 +31,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 
 #EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="Indonesia Channel",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-
 
 #EXTINF:-1  tvg-id="JITV.id" group-title="Local Channel" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
 http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
@@ -226,40 +229,40 @@ http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/m5TzKYB/rodjatv-home-tv.png" group-title="RELIGI",Rodja TV
 http://210.210.155.35/session/c0e10c7a-601a-11ec-9b56-9490aa8c161c/qwr9ew/s/s14/01.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="AL Quran AL Kareem" tvg-logo="" group-title="RELIGI",AL Quran AL Kareem
+#EXTINF:-1 tvg-id="" tvg-name="AL Quran AL Kareem" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL Quran AL Kareem
 http://210.210.155.35/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="Madinah tv" tvg-logo="https://i.ibb.co/TPH12f8/alquran-alkareem-home-tv.png" group-title="RELIGI",Madinah tv
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Mekkah tv" tvg-logo="" group-title="RELIGI",Mekkah tv
+#EXTINF:-1 tvg-id="" tvg-name="Mekkah tv" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Mekkah tv
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REFORMED 21 (KRISTEN)" tvg-logo="https://i.ibb.co/yWyyXPB/reformed-home-tv.png" group-title="RELIGI",REFORMED 21 (KRISTEN)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Imam Husein" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",Imam Husein
+#EXTINF:-1 tvg-id="" tvg-name="Imam Husein" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Imam Husein
 http://live.imamhossaintv.com/live/ih201/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="WESAL TV HD" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",WESAL TV HD
+#EXTINF:-1 tvg-id="" tvg-name="WESAL TV HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",WESAL TV HD
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AL IMAN" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",AL IMAN
+#EXTINF:-1 tvg-id="" tvg-name="AL IMAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL IMAN
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IQRA TV" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",IQRA TV
+#EXTINF:-1 tvg-id="" tvg-name="IQRA TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",IQRA TV
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b850000_t64MzYwcA==.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="I AM Channel" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",I AM Channel
+#EXTINF:-1 tvg-id="" tvg-name="I AM Channel" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="AL-IMAN TV HD" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",AL-IMAN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="AL-IMAN TV HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL-IMAN TV HD
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Saint TV" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",Saint TV
+#EXTINF:-1 tvg-id="" tvg-name="Saint TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Saint TV
 http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",Surau TV
+#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 #EXTINF:-1  tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Rodja TV Cileungsi
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
@@ -294,28 +297,28 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REFORMED 21 (KRISTEN)" tvg-logo="https://i.ibb.co/yWyyXPB/reformed-home-tv.png" group-title="RELIGI",REFORMED 21 (KRISTEN)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Imam Husein" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",Imam Husein
+#EXTINF:-1 tvg-id="" tvg-name="Imam Husein" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Imam Husein
 http://live.imamhossaintv.com/live/ih201/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="WESAL TV HD" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",WESAL TV HD
+#EXTINF:-1 tvg-id="" tvg-name="WESAL TV HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",WESAL TV HD
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AL IMAN" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",AL IMAN
+#EXTINF:-1 tvg-id="" tvg-name="AL IMAN" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL IMAN
 http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IQRA TV" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",IQRA TV
+#EXTINF:-1 tvg-id="" tvg-name="IQRA TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",IQRA TV
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b850000_t64MzYwcA==.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="I AM Channel" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",I AM Channel
+#EXTINF:-1 tvg-id="" tvg-name="I AM Channel" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="AL-IMAN TV HD" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",AL-IMAN TV HD
+#EXTINF:-1 tvg-id="" tvg-name="AL-IMAN TV HD" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",AL-IMAN TV HD
 http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Saint TV" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",Saint TV
+#EXTINF:-1 tvg-id="" tvg-name="Saint TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Saint TV
 http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="https://www.dropbox.com/s/nvmsnole28mpcrf/wings-2711550_960_720.webp?dl=1" group-title="RELIGI",Surau TV
+#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="RELIGI",Surau TV
 http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
 
 #EXTINF: -1 tvg-id="net.id" tvg-name="[ID] Net. TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="Indonesia", [ID] Net. TV
@@ -1383,37 +1386,37 @@ https://m3u-editor.com/serve/iptv-gratis/536999640
 #EXTINF: -1 tvg-id="tvs.my" tvg-name="MY | TVS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvs-my.png" group-title="[BACKUP] MALAYSIA", MY | TVS
 https://m3u-editor.com/serve/iptv-gratis/536999641
 
-#EXTINF:-1 tvg-id="mbahe" tvg-name="TyC Sports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 01
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 01
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="Arab 2" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 02
+#EXTINF:-1 tvg-id="" tvg-name="Arab 2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 02
 https://admdn5.cdn.mangomolo.com:443/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="band sports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 03
+#EXTINF:-1 tvg-id="" tvg-name="band sports" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 03
 http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="Canal 11" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 04
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 04
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="Bahrain Sports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 05
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sports" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 05
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="ftf" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 06
+#EXTINF:-1 tvg-id="" tvg-name="ftf" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 06
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="directv sports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 07
+#EXTINF:-1 tvg-id="" tvg-name="directv sports" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 07
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="mLaliga" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 08
+#EXTINF:-1 tvg-id="" tvg-name="mLaliga" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 08
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="Adventure Sports Network" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 09
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Sports Network" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 09
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="Adventure Sports TV" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 10
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Sports TV" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 10
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:-1 tvg-id="mbahe" tvg-name="Alfa Sport" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 11
+#EXTINF:-1 tvg-id="" tvg-name="Alfa Sport" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 11
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:-1 tvg-id="mbahe" tvg-name="Wrestling" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 12
+#EXTINF:-1 tvg-id="" tvg-name="Wrestling" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 12
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="World of Freesports" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 13
+#EXTINF:-1 tvg-id="" tvg-name="World of Freesports" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 13
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="ESPN2" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 14
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 14
 http://edge8-ccast-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD-mp4a_145200_eng=20002-avc1_899968=10009.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="looksport3" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 15
+#EXTINF:-1 tvg-id="" tvg-name="looksport3" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 15
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="mbahe" tvg-name="ESPN2 ARG" tvg-logo="https://i.postimg.cc/PfpkCjgn/Matchday.png" group-title="ONE MATCH", TEMPORARY 16
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 ARG" tvg-logo="http://semprullive.wap.sh/Logo/Spl2.png" group-title="ONE MATCH", TEMPORARY 16
 https://edge-live32-hr.cvattv.com.ar:443/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 
 
